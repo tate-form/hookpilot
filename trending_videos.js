@@ -1,4 +1,4 @@
-// crawler 결과 자동 통합 — 2026-10-28T19:30:47
+// crawler 결과 자동 통합 — 2026-10-28T21:01:16
 // 총 54113개 (본업 매칭 + 1년 이내)
 window.TRENDING_VIDEOS = [
  {
@@ -864724,4 +864724,4 @@ window.TRENDING_VIDEOS = [
   "tiktokUser": "ashley.goel"
  }
 ];
-window.TRENDING_LAST_UPDATE = "2026-10-28T19:30:47";
+window.TRENDING_LAST_UPDATE = "2026-10-28T21:01:16";
